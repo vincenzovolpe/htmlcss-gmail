@@ -1,0 +1,89 @@
+body{
+    background-image: url(https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-030.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#barra_utente {
+    padding-bottom: 7px;
+    padding-right: 8px;
+    padding-top: 4px;
+    text-align: right;
+}
+
+.barra_ricerca {
+    text-align: center;
+}
+
+.barra_ricerca div{
+    display: inline-block;
+    padding: 5px;
+}
+
+#logo {
+    vertical-align: middle;
+}
+
+hr {
+    width: 800px;
+    margin: auto;
+    color: white;
+}
+
+.msg_daleggere{
+    width: 800px;
+    text-align: left;
+    margin: auto;
+}
+
+.tabella_messaggi {
+	display: table;
+	width: 800px;
+    margin: auto;
+}
+
+.riga_tabella {
+	display: table-row;
+}
+
+.riga_tabella_evidenziata {
+	display: table-row;
+	background-color: #dddddd;
+}
+
+.riga_tabella_non_evidenziata {
+	display: table-row;
+	background-color: #ffffff;
+}
+
+.riga_cella{
+	display: table-cell;
+	padding: 3px 10px;
+    border-top: 1px solid #999999;
+}
+
+.barra_footer{
+    margin: auto;
+    text-align: center;
+}
+
+.gmail_grassetto{
+    text-transform: uppercase;
+}
+
+span{
+    color: white;
+    text-align: center;
+}
+
+.corsivo{
+    font-style: italic;
+}
+
+.cerchio{
+    border-radius: 50%;
+    padding: 8px;
+    background: darkseagreen;
+    color: #ffffff;
+    font: Arial, sans-serif;
+}
